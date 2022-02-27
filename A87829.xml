@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kollourion, or eye salve to anoint the eyes of the ministers of the Province of London; that they may see their error (at least) in opposing the present proceedings of the Parliament and Army, in the due execution of justice. / By a Minister of the Gospel.</title>
+            <author>Minister of the Gospel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87829</idno>
+            <idno type="STC">Wing K746</idno>
+            <idno type="STC">Thomason E542_16</idno>
+            <idno type="STC">ESTC R205970</idno>
+            <idno type="EEBO-CITATION">99865184</idno>
+            <idno type="PROQUEST">99865184</idno>
+            <idno type="VID">117421</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87829)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117421)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E542[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kollourion, or eye salve to anoint the eyes of the ministers of the Province of London; that they may see their error (at least) in opposing the present proceedings of the Parliament and Army, in the due execution of justice. / By a Minister of the Gospel.</title>
+                  <author>Minister of the Gospel.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. Dawson for Henry Cripps and are to be sold in Popes-head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first word of the title is transliterated from the Greek.</note>
+                  <note>Annotation on Thomason copy: "feb: 13 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Religion and politics --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117421:1" rendition="simple:additions"/>
+            <p>Κολλ<g ref="char:ougr">ȣ</g>ριον,</p>
+            <p>OR EYE SALVE to anoint the Eyes of the Miniſters of the <hi>PROVINCE</hi> OF LONDON; <hi>THAT THEY MAY SEE</hi> Their Error (at leaſt) in oppoſing the preſent Proceedings of the PARLIA<g ref="char:EOLhyphen"/>MENT and ARMY, in the due execution of JUSTICE.</p>
+            <p>By a Minister of the Goſpel.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. Dawſon</hi> for <hi>Henry Cripps</hi> and are to be ſold in Popes-head Alley. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117421:2"/>
+            <pb facs="tcp:117421:2"/>
+            <head>An Eye Salve to anoint the Eyes of the Miniſters of the Province of <hi>London,</hi> that they may ſee their Errour (at leaſt) in oppoſing the preſent proceedings of the Parliament and Army, in the due execution of Juſtice.</head>
+            <p>
+               <label>
+                  <hi>Quaere</hi> I.</label>
+               <lb/>
+               <seg rend="decorInit">W</seg>Hether <hi>Kings</hi> that have the Government of <hi>Civil</hi> States and Kingdomes are not (under the New Teſtament, and times of the Go<g ref="char:EOLhyphen"/>ſpel)<note n="*" place="margin">In theſe our times we are to diſtinguiſh be<g ref="char:EOLhyphen"/>tween the ſtate of Kings in their firſt <hi>origi<g ref="char:EOLhyphen"/>nall,</hi> and be<g ref="char:EOLhyphen"/>tween the State of ſettled Kings and Monarchs, that doe at this time governe in civill Kingdomes. <hi>King Iames Speeching Parliament, cited by Mr.</hi> Burton, <hi>in his Epiſtle Dedicatorie to King</hi> Charles <hi>in his ſeven Vials.</hi> So again a little after, Speaking of the Biſhop that Preached be<g ref="char:EOLhyphen"/>fore him, ſaith he, If I had been in his place, &amp;c. I would have concluded as an Engliſh<g ref="char:EOLhyphen"/>man, &amp;c. putting a difference between the generall power of a King in Divinity, and the ſettled and eſtabliſhed State of this Crown and Kingdome. <hi>id ibid.</hi>
+               </note> rather of a humane then Divine Con<g ref="char:EOLhyphen"/>ſtitution and Creation, according to 1 <hi>Pet.</hi> 2.13. <hi>Submit your ſelves</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>to every ordinance of man:</hi> or, to every humane Creation, <hi>for the Lord ſake, Whether it be to the King as ſupream &amp;c,</hi> and therefore are not properly to be called and ſtiled (as is the practiſe of Miniſters in their prayers uſually to doe) the A<g ref="char:EOLhyphen"/>nointed of the Lord.</p>
+            <p n="2">II. Whether thoſe Kings that are ſo conſtituted, when they degenerate from their Kingly authority, with which they are inveſted by their people, and turn down right<note n="*" place="margin">And there<g ref="char:EOLhyphen"/>fore a King go<g ref="char:EOLhyphen"/>verning in a ſettled Kingdome leaves to be a King, and degenerates into a Tyrant, as ſoon as he leaves off to rule according to his Laws Therefore all Kings that are not Tyrants or Perjured, wilbe glad to bound themſelves within the limits of their laws and they that perſwade them the contrary are Vipers and Peſts both againſt them and the Common-wealth <hi>id. ut ſup.</hi>
+               </note> Tyrants,
+<pb n="2" facs="tcp:117421:3"/>Murtherers and deſtroyers of their Kingdomes, may not ſafe<g ref="char:EOLhyphen"/>ly and upon juſt grounds be called to an account, and have the law executed upon them for ſo doing, they being as ſubject to the laws, by which they are to govern, as their people over whom they are ſet? and<note n="*" place="margin">Vid. <hi>Fox</hi> martyrolog. edit. ult. vol. <hi>2</hi> p. <hi>879 880.</hi> as Mr. <hi>Prinne</hi> cites it in his <hi>1</hi> part of the Papiſts diſ<g ref="char:EOLhyphen"/>loyalty to their Soveraign.</note> whether in this caſe civil governours in a State, are more exempt from Depoſition, then Eccleſia<g ref="char:EOLhyphen"/>ſticall in a Church?</p>
+            <p n="3">III. Whether the King of <hi>England</hi> did not (in an almoſt unparalled way, excelling his Predeceſſours) make himſelf guilty before God and good men, and of thoſe (never enough to be abhorred) abominations of Tyranny, Murther, and Op<g ref="char:EOLhyphen"/>preſſion in his three Kingdomes of <hi>England, Scotland,</hi> and <hi>Ireland:</hi> and whether, if the Commons of <hi>England</hi> (whom it principally concerns) ſhould wink and connive at thoſe a<g ref="char:EOLhyphen"/>foreſaid unparalelled abominations, and neglect to execute righteous judgement, according to the laws of God, Nature &amp; Nations, they ſhould not bring the guilt of all theſe abomina<g ref="char:EOLhyphen"/>tions, committed by the ſaid King, upon their own heads, and ſo become acceſſary to their own and the Kingdomes ruine; yea,<note place="margin">King <hi>Vortiger</hi> anno D. <hi>454.</hi> King <hi>Sigebert, 756.</hi> K. <hi>Ofred 789</hi> K. <hi>Ethel<g ref="char:EOLhyphen"/>red 794.</hi> All before the Con<g ref="char:EOLhyphen"/>queſt with ma<g ref="char:EOLhyphen"/>ny others after quoted by Mr. <hi>Prinne,</hi> ut ſup.</note> the ruine and miſery of their Poſterity after them.</p>
+            <p n="4">IV. Whether there be not infinite examples in Hiſtories of the Peoples proceedings in wayes of bringing their Tyranni<g ref="char:EOLhyphen"/>call Princes to condigne puniſhment, and ſetting up others in their ſteads.</p>
+            <p n="5">V. Whether the Army under the Command of his Excel<g ref="char:EOLhyphen"/>lency the Lord <hi>Fairfax,</hi> hath not been in a ſpeciall manner in<g ref="char:EOLhyphen"/>ſtrumentall from heaven to bring down, that <hi>proud</hi>
+               <note n="*" place="margin">
+                  <hi>Gen.</hi> 10.9.</note> 
+               <hi>Nime<g ref="char:EOLhyphen"/>rod,</hi> the KING that <hi>hunted</hi> after, not onely the Eſtates, but <hi>Liberties</hi> and precious lives of the beſt of his Subjects; and brake through all the hedges and boundaryes of juſt laws both of God and Man, that ſhould have kept him within com<g ref="char:EOLhyphen"/>paſſe; and were acknowledged the friends of God and good men for ſo doing, and many prayers and praiſes put up to hea<g ref="char:EOLhyphen"/>ven in the behalf of them.</p>
+            <p n="6">VI. Whether the foreſaid Army are not ſtill to be look upon in the preſent Tranſactions they are upon, as inſtruments in the hands of God (though in an extraordinary way) for the ſaving of the Kingdome, ſo long as they proceed by the
+<pb n="3" facs="tcp:117421:3"/>lawfull Authority of the Kingdome, <hi>viz.</hi> the Parliament; in bringing the grand Incendiaries of the Kingdome to condigne puniſhment.</p>
+            <p n="7">VII. Whether the God of Heaven, who is<note n="*" place="margin">
+                  <hi>Revel.</hi> 15.3.</note> 
+               <hi>juſt</hi> and holy in all his <hi>wayes,</hi> doth not according to his wounderfull work<g ref="char:EOLhyphen"/>ings, beyond the ſhallow reach of humane capacities, many times ſtirre up (in an extraordinary manner) private perſons, to execute his<note n="*" place="margin">
+                  <hi>Num.</hi> 25.7.</note> 
+               <hi>juſt and righteous judgements</hi> on thoſe that are his and his Peoples proud &amp; implacable adverſaryes, eſpecially when ordinary wayes &amp; means fail: and whether we are not rather to reverence and adore the glorious and wonderfull actings of God this way, in order to the vindication of his own great Name, and his peoples ſalvations, as at this day in <hi>England,</hi> then to quarrell and fall foule, with the Inſtruments, that he is pleaſed to make uſe of.</p>
+            <p n="8">VIII. Whether God hath not in his word commanded a ſpeedie execution of Juſtice, without <hi>reſpect of Perſons?</hi>
+               <note n="*" place="margin">2 <hi>Chr.</hi> 19.7.</note> and been greatly diſpleaſed for the neglect of it: and whether the Lords beholding ſuch a neglect, hath not provoked him to make bare his own arme, and to act in a more extraordinary way and manner to the effecting and bringing to paſſe of ſuch a great work, as the execution of Juſtice and Judgment is.</p>
+            <p n="9">IX. Whether the Lord Generall and Councell of war in the Army, have acted in this preſent buſineſſe of bringing the King to juſtice (and thoſe have been in confederacy with him in the Parliament and Kingdom) by themſelves alone, without the knowledge and approbation of the Kingdome; and whe<g ref="char:EOLhyphen"/>ther they have not been continually inſtigated by the honeſt and godly party, as well Presbyterians as Independents, by their petitions and ſupplications to enterpriſe this buſineſſe, looking on it as the next &amp; ſpeedieſt meanes through the blood of Chriſt, to turn away the<note n="*" place="margin">Num. 25.12.</note> wrath of God from this Nation, and to preſerve it in a ſound and better peace for the future: And whether the godly party ſo petitioning the Lord Gene<g ref="char:EOLhyphen"/>rall and Army hereunto, and ſlighted in your letter are not (without offence be it ſpoken) men of as great integrity, judgement and conſcience, and as well inſighted in the nature of the preſent tranſactions, as thoſe few Miniſters of the pro<g ref="char:EOLhyphen"/>vince
+<pb n="4" facs="tcp:117421:4"/>of <hi>London</hi> (as they are pleaſed to ſtile themſelves though without any warrant in Scripture) who are known by expe<g ref="char:EOLhyphen"/>rience (at leaſt diverſe of them) to come exceeding ſhort both of learning and the power of godlineſſe, and have more need to hearken to the Counſell of the Lord Jeſus, in <hi>Matth.</hi> 7.3. Firſt to take out the <hi>Beam</hi> that is in their own <hi>eye,</hi> then to at<g ref="char:EOLhyphen"/>tempt to pluck out the <hi>Moat</hi> that is in their brothers eye.</p>
+            <p n="10">X. Whether the Parliament and Army in waging a juſt warre againſt the King and his malignant party, had not been free from the bloud of the King, if his life had been taken a<g ref="char:EOLhyphen"/>way in theſe warres; and whether it be not every way as lawfull when they have overcome him (through the bleſſing of God upon their endeavours) to proceed againſt him in a legall way, to try him for his abominable murthering his innocent ſubjects, as it was formerly to wage warre againſt him.</p>
+            <p n="11">XI. Whether (the premiſes duly weighed) yee the Miniſters of the province of <hi>London</hi>) have not ill requited he Lord &amp; his faithfull ſervants in this Nation, for their great work and la<g ref="char:EOLhyphen"/>bour<note n="*" place="margin">Heb. 6.10.</note> of love in ſaving hitherto this miſerable kingdome though your oppoſing ſo bitterly (contrary to the nature and commiſſion of true Goſpel and Evangelicall Miniſters) their juſt and righteous proceedings in a legall way to have the known and undoubted enemies of the Lord and his people, brought to condigne puniſhment: and whether this may not in an houre when you little think of it, be found juſt matter of ſhame and ſorrow to your poore ſoules.</p>
+            <p n="12">XII. Whether yee have not heretofore in your conſciences beleeved, and accordingly in a publick manner profeſſed, that the King (whom you now ſo much plead for) hath been a no<g ref="char:EOLhyphen"/>torious enemy to the Lord Jeſus Chriſt, and ſought <hi>(quantum in ſe fuit)</hi> to lay violent hands on his Throne, and to make his heritage deſolate, and to introduce an arbitrary and tyrannicall power into the civill State, and to confirm (as to this day, that Antichriſtian Government in your Church which you have co<g ref="char:EOLhyphen"/>venanted againſt; and whether you have not preached prayed, and written, if not ſome of you fought againſt him in your proper perſons, or at leaſt incouraged the Souldiers thereunto,
+<pb n="5" facs="tcp:117421:4"/>when you have been formerly in the relation of Chaplains or Preachers to them, though now your judgements and practiſes (without any juſt grounds) are clean altered and turned about.</p>
+            <p n="13">XIII. Whether now in this preſent juncture of time for ſuch as yee are, that pretend to be Miniſters of Chriſt, and friends to the kingdomes peace) to plead for the King and his malignant party, that were happily ſecluded from ſitting at the Helm of the Kingdome any longer (they ſteering ſo directly contrary to the ſafety of the Kingdome) and to preach &amp; pray, and write for them, and againſt the preſent Parliament and Army, that cannot juſtly be taxed of carrying on any other deſigne then the glory of God, and ſalvation of this miſera<g ref="char:EOLhyphen"/>ble Kingdome, and have deſerved far better at your hands, bee not with <hi>Iehoſophat</hi> that godly Prince, to<note n="*" place="margin">2 Chron. 19.2.</note> help the ungodly, and love thoſe that hate the Lord; and whether this be any other then to fall from your<note n="*" place="margin">Rev. 2.4,</note> 
+               <hi>firſt love,</hi> and betray your truſt you pretend to be committed to you by Chriſt, and whe<g ref="char:EOLhyphen"/>ther wrath be not for this gone out againſt you from the Lord.</p>
+            <p n="14">XIV. Whether if you narrowly ranſack your boſomes, &amp; deale impartially with your own hearts many of you, (if not all of you that have ſubſcribed the Letter lately ſent to the Lord Generall and his Councell of War) have not appeared a<g ref="char:EOLhyphen"/>gainſt their preſent preceedings with the Parliament in the ſe<g ref="char:EOLhyphen"/>cluding the malignant members, and triall of the King, out of meere prejudice againſt them, becauſe you underſtand they are about to pull downe that <hi>Dagon</hi> of the presbytery, viz. Tyths &amp; offerings, &amp;c. the which you ſo much ſtrive to keep up, (though altogether inconſiſtent with the Ark of God) and can no more endure to have taken from you, then old <hi>Mi<g ref="char:EOLhyphen"/>cah</hi> could his carved and moulten Image, his Ephod and Tera<g ref="char:EOLhyphen"/>phim, <hi>Iudg.</hi> 18.18. <hi>who cried out, Yee have taken away my Gods, and what have I more.</hi>
+            </p>
+            <p n="15">XV. Whether in this late ſetting your ſelves againſt the proceeding of the Parliament and Army, in trying of the King, and bringing him to juſtice, ye doe not directly break the Co<g ref="char:EOLhyphen"/>venant you ſo much idolize and plead for, by endeavouring (what in you lies) to keep from condigne puniſhment ſuch as are convicted of delinquency, and are without controverſie
+<pb n="6" facs="tcp:117421:5"/>known enemies to the State and Kingdome in the higheſt de<g ref="char:EOLhyphen"/>gree; and whether your exempting the perſon of the King from juſtice, be not to make the righteous <hi>God</hi> a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. i. a reſpecter of perſons.</p>
+            <p n="16">XVI. Whether this courſe you have lately taken, by your publick preaching, praying, and writing, to oppoſe the preſent weighty proceedings of the Army, be not in a very great mea<g ref="char:EOLhyphen"/>ſure, a making ſad the hearts of the godly party, and rejoycing the hearts of the wicked, yea a ſtrengthening their hearts and hands to be more active and deſperate then ever (if the Lord from heaven did not put a hook<note n="*" place="margin">Iſa. 37.29.</note> in their jaws to reſtrain them) in their old wayes of bloody Cavaleriſme: and whether you doe not hereby give juſt occaſion as to the enemy to juſtifie the King and themſelves in their former curſed wayes of diſ<g ref="char:EOLhyphen"/>obedience to the lawes of God and this Kingdome, ſo to the Lords people to doe your errand to Heaven, and fill the eares of Jehovah with loud cryes and ſad complaints againſt you, and to beſeech him either to open your eyes, or ſtop your mouthes.</p>
+            <p n="17">XVII. Whether you have not juſt cauſe to feare, that you are in the number of thoſe the Prophet <hi>Malachi</hi> ſpeaketh of, <hi>chap.</hi> 3.2. who ſhall not abide the day of Chriſts coming into his Temple, nor ſtand when he appeareth, as a Refiners fire, and like Fullers ſope; and whether you are not ſome of thoſe Prieſts and Levits there ſpoken of, that ſtand in need of Chriſts putting you into his Refining pot, that he may purge out that droſſe and take away that ſcum of ambition, covetouſneſſe, and bitterneſſe, that ſo apparently remains upon you, ſo that you may be able to offer to the Lord a pure offering, and an offe<g ref="char:EOLhyphen"/>ring in righteouſneſſe indeed, and not mingle the cleane and unclean any longer together, when you draw nigh to God in the wayes of his ſacred worſhip and ſervice.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:117421:5" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
